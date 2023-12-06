@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+productID,"int unsigned",NO,PRI,NULL,auto_increment
+productCode,char(3),NO,,,
+name,varchar(30),NO,,,
+quantity,"int unsigned",NO,,0,
+price,"decimal(7,2)",NO,,99999.99,

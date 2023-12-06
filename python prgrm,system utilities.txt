@@ -1,0 +1,81 @@
+C:\Users\Olivia>date
+The current date is: 19-10-2020
+Enter the new date: (dd-mm-yy)
+
+C:\Users\Olivia>date/t
+19-10-2020
+
+C:\Users\Olivia>ver
+
+Microsoft Windows [Version 10.0.18363.1082]
+
+C:\Users\Olivia>dir
+ Volume in drive C is OS
+ Volume Serial Number is 62AC-4D47
+
+ Directory of C:\Users\Olivia
+
+25-08-2020  14:15    <DIR>          .
+25-08-2020  14:15    <DIR>          ..
+25-08-2020  14:15    <DIR>          .idlerc
+18-09-2020  21:07    <DIR>          3D Objects
+18-09-2020  21:07    <DIR>          Contacts
+18-09-2020  21:07    <DIR>          Desktop
+18-10-2020  11:15    <DIR>          Documents
+18-10-2020  12:31    <DIR>          Downloads
+18-09-2020  21:07    <DIR>          Favorites
+18-09-2020  21:07    <DIR>          Links
+18-09-2020  21:07    <DIR>          Music
+18-10-2020  12:28    <DIR>          OneDrive
+18-09-2020  21:07    <DIR>          Pictures
+18-09-2020  21:07    <DIR>          Saved Games
+18-09-2020  21:07    <DIR>          Searches
+18-09-2020  21:07    <DIR>          Videos
+               0 File(s)              0 bytes
+              16 Dir(s)  176,973,197,312 bytes free
+
+C:\Users\Olivia>dir/p
+ Volume in drive C is OS
+ Volume Serial Number is 62AC-4D47
+
+ Directory of C:\Users\Olivia
+
+25-08-2020  14:15    <DIR>          .
+25-08-2020  14:15    <DIR>          ..
+25-08-2020  14:15    <DIR>          .idlerc
+18-09-2020  21:07    <DIR>          3D Objects
+18-09-2020  21:07    <DIR>          Contacts
+18-09-2020  21:07    <DIR>          Desktop
+18-10-2020  11:15    <DIR>          Documents
+18-10-2020  12:31    <DIR>          Downloads
+18-09-2020  21:07    <DIR>          Favorites
+18-09-2020  21:07    <DIR>          LinksC:\Users\Olivia>dir/q
+ Volume in drive C is OS
+ Volume Serial Number is 62AC-4D47
+
+C:\Users\Olivia>dir/q
+ Volume in drive C is OS
+ Volume Serial Number is 62AC-4D47
+
+ Directory of C:\Users\Olivia
+
+25-08-2020  14:15    <DIR>          NT AUTHORITY\SYSTEM    .
+25-08-2020  14:15    <DIR>          NT AUTHORITY\SYSTEM    ..
+25-08-2020  14:15    <DIR>          DESKTOP-2TPNLBA\Olivia .idlerc
+18-09-2020  21:07    <DIR>          DESKTOP-2TPNLBA\Olivia 3D Objects
+18-09-2020  21:07    <DIR>          DESKTOP-2TPNLBA\Olivia Contacts
+18-09-2020  21:07    <DIR>          DESKTOP-2TPNLBA\Olivia Desktop
+18-10-2020  11:15    <DIR>          DESKTOP-2TPNLBA\Olivia Documents
+18-10-2020  12:31    <DIR>          DESKTOP-2TPNLBA\Olivia Downloads
+18-09-2020  21:07    <DIR>          DESKTOP-2TPNLBA\Olivia Favorites
+18-09-2020  21:07    <DIR>          DESKTOP-2TPNLBA\Olivia Links
+18-09-2020  21:07    <DIR>          DESKTOP-2TPNLBA\Olivia Music
+18-10-2020  12:28    <DIR>          DESKTOP-2TPNLBA\Olivia OneDrive
+18-09-2020  21:07    <DIR>          DESKTOP-2TPNLBA\Olivia Pictures
+18-09-2020  21:07    <DIR>          DESKTOP-2TPNLBA\Olivia Saved Games
+18-09-2020  21:07    <DIR>          DESKTOP-2TPNLBA\Olivia Searches
+18-09-2020  21:07    <DIR>          DESKTOP-2TPNLBA\Olivia Videos
+               0 File(s)              0 bytes
+              16 Dir(s)  176,982,487,040 bytes free
+
+ 
